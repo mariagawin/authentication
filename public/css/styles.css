@@ -1,0 +1,23 @@
+body {
+   background-color: #e8ecef;
+}
+
+button {
+   margin: 10px auto;
+}
+
+input {
+   margin: 5px auto;
+}
+
+.centered {
+   padding-top: 120px;
+   text-align: center;
+}
+
+.secret-text {
+   background-color: #000;
+   color: #fff;
+   font-size: 2rem;
+   text-align: center;
+}
